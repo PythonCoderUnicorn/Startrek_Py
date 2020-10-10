@@ -1,4 +1,4 @@
-https://github.com/PythonCoderUnicorn/Startrek_Py/issues/1#issue-718495579
+
 # Starfleet Academy Python 
 
 ### Welcome to Starfleet Academy Python! 
