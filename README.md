@@ -33,7 +33,6 @@ run the program from Terminal:
 In the terminal enter <code> pwd </code> to see where you are in directory. If you see <code> /Users/<"your_name"> </code> then enter <code> cd Desktop </code>, this takes you to the Desktop. 
 If you saved the file on your desktop, then you should see the Hello.py file when you enter <code> ls </code> , if you see it then you are good to go on running this program. Now enter in the terminal  <code> python3 Hello.py </code> and hit enter.
 
-show image of output-------
 <br>
 <br>
 <h4> You just created your first app ! </h4>
@@ -83,7 +82,8 @@ To shutdown the running Notebook in the terminal: <code> Ctrl + C </code>, then 
 You can run Jupyter Notebook files in Google Collab Notebook, you need a Google account and there is dark mode available. 
 
 - Pros of Collab: you don't need to download Python libraries onto your computer (such as Pandas, Seaborn, etc, these libraries will be used later). It works like Jupyter Notebook, so it is easy to run python. Your files get saved, can be stored and viewed in Google Drive.
-- Cons of Collab: inputing a dataset like CSV is not simple and easy like Jupyter. Collab needs to know permissions for accessing a file if from the file is in the Drive, where the file is. This is a minor thing, but when comparing reading in a CSV or Excel data it is a little more code to make it work. [Loading CSV into Collab Notebook](https://towardsdatascience.com/3-ways-to-load-csv-files-into-colab-7c14fcbdcb92?gi=71d62d1e9ff5)
+- Cons of Collab: inputing a dataset like CSV is not simple and easy like Jupyter. Collab needs to know permissions for accessing a file if from the file is in the Drive, where the file is. This is a minor thing, but when comparing reading in a CSV or Excel data it is a little more code to make it work. 
+[Loading CSV into Collab Notebook](https://towardsdatascience.com/3-ways-to-load-csv-files-into-colab-7c14fcbdcb92?gi=71d62d1e9ff5)
 
 
 ```python
