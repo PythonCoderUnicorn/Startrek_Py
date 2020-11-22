@@ -1,0 +1,16 @@
+Rank_Name,Abbrev,Grade,Pips
+Fleet Admiral,FAdm,C-11,[5]
+Admiral,Adm,C-10,[4]
+Vice-Admiral,Vadm,C-09,[3]
+Rear-Admiral (Upper),RAdmU,C-08,[2]
+Rear-Admiral (Lower),RAdmL,C-07,[1]
+Captain,Capt,C-06,4
+Commander,Cmdr,C-05,3
+Lierutenant-Commander,Lt.Cmdr,C-04,(0)2
+Lieutenant,Lt,C-03,2
+Lieutenant-Junior Grade,Lt (jg),C-02,(0)1
+Ensign,Ens,C-01,1
+Cadet (4th year),C4,T-04,////
+Cadet (3rd year),C3,T-03,///
+Cadet (2nd year),C2,T-02,//
+Cadet (1st year),C1,T-01,/
