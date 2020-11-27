@@ -1,0 +1,8 @@
+,Program_Name,id1,.id2,Rating,Rating_Num,Duration,Genre,Difficulty,Mode,Plot
+0,Risa Beach,166,1,G,0,105,Leisure,1,1,['Relax on the beach']
+1,Risa Spa Day,136,3,A,1,171,Leisure,1,1,"['Get a massage, pedicure, facial']"
+2,Orion Sensual,173,3,A,1,83,Leisure,1,1,['Adult entertainment']
+3,Ardana Skiing,215,1,G,0,287,Adventure,4,1,['Ski the various hills & mountains of Ardana']
+4,Iconia Imax Movies,146,3,G,0,268,Entertainment,1,1,['Watch UHD films from various planets']
+5,Elias Mountain Hike,193,1,G,0,194,Entertainment,6,2,['Hike the mountain trails of Elias']
+6,Romulan SpyMaster,108,5,A,1,237,Action,8,2,['Play Spy for the Romulan Tal Shiar']
